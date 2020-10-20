@@ -1,1 +1,13 @@
-Pizza İşletme Analizi
+* Pizza İşletme Analizi
+
+
+* Hayata geçirilecek sistem neye hizmet edecek?
+- Pizza satışı yapan bu işletmenin, ürün verilerinine erişim hizmeti sağlayacaktır.
+
+* Veri tabanı hangi ihtiyaçları karşılayacak?
+-Ürünün hangi boyutlarda olacağının bilgisini sorgulanacaktır.
+
+* Veri tabanında hangi veriler depolanacak?
+
+
+* Veri tabanında ne tür veriler depolanacak?
