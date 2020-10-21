@@ -1,0 +1,66 @@
+* Bireysel Kütüphane VT Analizi
+
+
+* Hayata geçirilecek sistem neye hizmet edecek?
+
+- Kişisel kütüphanemin katalog bilgisini sağlamak amacıyla bu sistem kurulmuştur.
+
+
+* Veri tabanı hangi ihtiyaçları karşılayacak?
+
+- Eserlerin Milli Kütüphane'de olup olmadığını sorgulanabilecek,
+- Ulaşılmak istenen eserin unique id'sine göre sorgulama yapılabilecek,
+- Eserler türüne göre sistem tarafından otomatik kategorizasyonu sağlanacak,
+- Eserin kütüphaneye giriş-çıkış zamanı sorgulanabilecek,
+- Kütüphane'de aynı materyal türünden kaç tane mevcut olduğu sorgulanabilecek,
+- Online eserlerin url sorgulaması yapılabilecek,
+- Eser yazarlarının bilgilerine ulaşılabilecek.
+- Eserlerin APA6 Kuralına uygun künyeleri sorgulanabilecek.
+- Eserlerin yayın yılı ve yayınevi sorgulaması
+
+
+* Veri tabanında hangi veriler depolanacak?
+
+- Eser bilgileri,
+- Künye bilgileri,
+- Yazar bilgileri,
+- Metaryal türü ve kategori bilgileri,
+- Yayınevi bilgileri.
+
+
+* Veri tabanında ne tür veriler depolanacak?
+
+
+# Eser bilgileri
+
+- Eser başlığı,
+- Eser unique id nummarası,
+- Eser dili,
+- Eser kopya sayısı,
+- Eser yayınevi ve yayın yılı,
+- Eserin fiziki/online bilgisi.
+
+# Künye bilgileri
+
+- APA6 Kuralına göre künye bilgileri,
+- Eserin Milli kütüphane'deki durumu.
+
+# Yazar bilgileri
+
+- Yazar id,
+- Yazar ad soyad,
+- Yazar cinsiyeti,
+- Yazar Doğum tarihi,
+- Yazarın uyruğu.
+
+# Metaryal türü ve kategori bilgileri
+
+- Konusal eser ayrımı
+- Materyal türü bilgileri
+
+# Yayınevi bilgileri
+
+- Yayınevi adı,
+- Yayınevi kurum e postası,
+- Yayınevi numarası (id),
+- Yayınevi yerleşkesi (şehir).
