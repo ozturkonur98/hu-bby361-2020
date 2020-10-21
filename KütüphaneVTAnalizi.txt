@@ -35,6 +35,7 @@
 
 - Eser başlığı,
 - Eser unique id nummarası,
+- Eserin yazarı,
 - Eser dili,
 - Eser kopya sayısı,
 - Eser yayınevi ve yayın yılı,
